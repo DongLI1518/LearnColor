@@ -1,2 +1,2 @@
 # LearnColor
-Just a game.
+Just a child game.
